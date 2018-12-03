@@ -1,5 +1,7 @@
 {
   "name": "myiotproject",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
